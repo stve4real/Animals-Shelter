@@ -1,0 +1,59 @@
+.countries{
+    background-color: orange;
+    font-style: italic;
+    text-decoration-color: blue;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 100%;
+    
+    
+
+}
+img{
+    float: left;
+    background-color: aqua;
+    border-style: dotted;
+    display: flex;
+
+}
+.main{
+    font-family: sans-serif;
+    background-color: blue;
+    font-weight: bold;
+    width: 100%;
+    float: left;
+    
+    
+}
+.pure{
+    float: left;
+    text-align: center;
+    background-color: aquamarine;
+    width: 100%;
+}
+.gun{
+    float: left;
+    background-color: blueviolet;
+    text-align: center;
+    width: 100%;
+}
+.hope{
+    font-weight: bold;
+    font-style: italic;
+    background-color: brown;
+    float:left;
+    text-align: center;
+    display: block;
+    width: 100%;
+
+}
+.purple{
+    text-align: center;
+    border: 4px solid green;
+    border-style: dotted;
+    box-sizing: border-box;
+    background-color: bisque;
+
+    
+}
